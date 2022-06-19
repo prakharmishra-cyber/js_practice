@@ -1,0 +1,11 @@
+{
+  "name": "js_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prakharmishra-cyber/js_practice.git",
+  "author": "Prakhar Mishra <mprakhar35@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
